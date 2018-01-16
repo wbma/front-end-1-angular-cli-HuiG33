@@ -13,8 +13,6 @@ header {
 
 footer {
   width: 100%;
-  position: relative;
-  bottom: 0;
   background-color: #333333;
 }
 
@@ -32,12 +30,14 @@ nav {
 
 main {
   width: 83%;
+  height: 20rem;
   margin: 2% 1% 2% 1%;
   background-color: #cccccc;
 }
 
 aside {
   width: 13%;
+  height: 20rem;
   margin: 2% 1% 2% 1%;
   background-color: #aaaaaa;
 }
